@@ -1,6 +1,6 @@
 # destiny-reader [![NPM version](https://badge.fury.io/js/destiny-reader.png)](http://badge.fury.io/js/destiny-reader) 
 
-> Base reader for desinty.
+> Base reader for destiny.
 
 ## Work In Progress
 This is just a place holder with more to come shortly.
