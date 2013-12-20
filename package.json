@@ -1,0 +1,22 @@
+{
+  "name": "destiny-reader",
+  "version": "0.0.1",
+  "description": "Base reader for desinty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doowb/destiny-reader.git"
+  },
+  "keywords": [
+    "destiny",
+    "reader"
+  ],
+  "author": "Brian Woodward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doowb/destiny-reader/issues"
+  }
+}
