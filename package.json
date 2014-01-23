@@ -1,23 +1,29 @@
 {
-  "name": "destiny-reader",
+  "name": "datasync-reader",
   "version": "0.0.1",
-  "description": "Base reader for destiny.",
+  "description": "Base reader for datasync.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/doowb/destiny-reader.git"
+    "url": "https://github.com/doowb/datasync-reader.git"
   },
   "keywords": [
-    "destiny",
-    "reader"
+    "data",
+    "datasync",
+    "sync",
+    "sync data",
+    "mapper",
+    "map data",
+    "reader",
+    "data reader"
   ],
   "author": "Brian Woodward",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doowb/destiny-reader/issues"
+    "url": "https://github.com/doowb/datasync-reader/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
