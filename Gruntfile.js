@@ -13,7 +13,8 @@ module.exports = function(grunt) {
       },
       files: [
         'Gruntfile.js',
-        'src/**/*.js'
+        'src/**/*.js',
+        'test/**/*.js'
       ]
     },
 
@@ -25,7 +26,7 @@ module.exports = function(grunt) {
         options: {
           reporter: 'progress'
         },
-        src: ['src/test/**/*_test.js']
+        src: ['test/**/*_test.js']
       }
     },
 
@@ -37,7 +38,7 @@ module.exports = function(grunt) {
 
     watch: {
       dev: {
-        files: ['src/**/*.js'],
+        files: ['<%= jshint.files %>'],
         tasks: ['default']
       }
     }
