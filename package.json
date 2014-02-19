@@ -2,7 +2,7 @@
   "name": "datasync-reader",
   "version": "0.0.1",
   "description": "Base reader for datasync.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -30,6 +30,10 @@
     "grunt-mocha-test": "~0.8.1",
     "grunt-readme": "~0.4.5",
     "grunt-contrib-jshint": "~0.7.2",
-    "grunt-contrib-watch": "~0.5.3"
+    "grunt-contrib-watch": "~0.5.3",
+    "chai": "~1.9.0"
+  },
+  "dependencies": {
+    "lodash": "~2.4.1"
   }
 }

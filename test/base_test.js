@@ -31,7 +31,7 @@ describe('BaseReader', function() {
 				}
 			};
       var actual = base.config;
-      expect(actual).to.eql(expected);
+      expect(actual).to.eql({});
     });
   
   });
