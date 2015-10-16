@@ -35,5 +35,12 @@
   },
   "dependencies": {
     "lodash": "~2.4.1"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Brian Woodward",
+      "email": "brian.woodward@gmail.com",
+      "url": "https://github.com/doowb"
+    }
+  ]
 }
